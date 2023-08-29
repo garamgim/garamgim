@@ -5,4 +5,6 @@ I am Garam Gim from South Korea, an aspiring full stack web developer 🍧
 - Currently working on [THE ODIN PROJECT](https://www.theodinproject.com/)
 - Pursuing a bachelor's degree of Computer Science online on [Korea National Open University](https://engknou.knou.ac.kr/engknou/5774/subview.do?epTicket=ST-712570-LIvPYUpkfmtUqk11ezv7mMWkpo1U4Bc3KGJ-13)
 <br>
-For more information, please visit: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/garam-g-b09439148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/v.svg' alt='v' height='30'>](https://velog.io/@sallycinnamon)  
+For more information, please visit: [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/https://www.linkedin.com/in/garam-g-b09439148//)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@sallycinnamon) 
+<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=Garam)](https://velog.io/@sallycinnamon) 
