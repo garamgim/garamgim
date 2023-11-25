@@ -1,7 +1,7 @@
 ### Hello World!
 <br>
 
-I am Garam Gim from South Korea, an aspiring full stack web developer, Currently working on [THE ODIN PROJECT](https://www.theodinproject.com/) &nbsp;🍧
+I am Garam Gim from South Korea, an aspiring front-end developer &nbsp;🍧
 <br>
 For more information, please visit:
 <br>
