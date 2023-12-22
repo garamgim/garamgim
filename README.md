@@ -1,7 +1,7 @@
 ### Hello World!
 <br>
 
-I am Garam Gim from South Korea, an aspiring front-end developer &nbsp;🍧
+I am Garam Gim from South Korea &nbsp;🍧
 <br>
 For more information, please visit:
 <br>
