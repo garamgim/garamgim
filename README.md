@@ -1,5 +1,4 @@
 # 🌏&nbsp;&nbsp;Hello World 
-<br>
 
 ### 🍧&nbsp;&nbsp;About Me 
 - Samsung Software Academy For Youth 11th Trainee
