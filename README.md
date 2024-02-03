@@ -1,7 +1,7 @@
 # 🌏&nbsp;&nbsp;Hello World 
 
 ### 🍧&nbsp;&nbsp;About Me 
-- Samsung Software Academy For Youth 11th Trainee
+- 11th trainee of Samsung Software Academy For Youth 
 - Currently learning CS & Web development
 - Intuition and ambition are running through my veins [🌊](https://www.instagram.com/cosmicsurfin8)
 
@@ -23,5 +23,3 @@
 [<img src="https://img.shields.io/badge/Velog-0DBD8B?style=for-the-badge&logo=vimeo&logoColor=white" />](https://velog.io/@sallycinnamon)
 
 <br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/garamgim/)
