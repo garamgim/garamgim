@@ -1,7 +1,9 @@
-### Hello World!
+### Hello World 🍧
 <br>
 
-I am Garam Gim from South Korea &nbsp;🍧
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/garamgim/)
+
 <br>
 For more information, please visit:
 <br>
