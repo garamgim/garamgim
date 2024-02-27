@@ -2,15 +2,13 @@
   ___ _          ___                     
  / __(_)_ __    / __|__ _ _ _ __ _ _ __  
 | (_ | | '  \  | (_ / _` | '_/ _` | '  \ 
- \___|_|_|_|_|  \___\__,_|_| \__,_|_|_|_|
+ \___|_|_|_|_|  \___\__,_|_| \__,_|_|_|_|  ღ˘◡˘ற♡.｡oO
 ```
 
-
-
 ## 🍧&nbsp;&nbsp;About Me 
-- 11th trainee of Samsung Software Academy For Youth 
+- 11th trainee of Samsung Software Academy For Youth, South Korea
 - Currently learning CS & Web development
-- Intuition and ambition are running through my veins [🌊](https://www.instagram.com/cosmicsurfin8)
+- Music lover [🌊](https://www.instagram.com/cosmicsurfin8)
 
 <br>
 
@@ -23,7 +21,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/garamgim/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garamgim&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=350px /> 
+</a>  
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/garamgim/) 
 
 
 <br>
