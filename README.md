@@ -37,7 +37,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/garamgim/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/en/profile/garamgim) 
 
 
 <br>
