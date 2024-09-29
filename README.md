@@ -41,7 +41,7 @@
 
 <br>
 
-## 🍡 &nbsp;&nbsp;Stats
+## 🍡 &nbsp;&nbsp;Activities
 
 <br>
 
