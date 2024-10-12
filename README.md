@@ -45,11 +45,11 @@
 
 <br>
 
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=sallycinnamon)](https://velog.io/@sallycinnamon)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=garamgim)](https://solved.ac/en/profile/garamgim)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garamgim&langs_count=5&layout=compact)
 <br>
 
 ## ☕️&nbsp;&nbsp;Contact Me
